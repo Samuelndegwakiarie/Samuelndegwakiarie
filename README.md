@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sammiekiarie90@gmail.com**
 
-- ⚡ Fun fact :**youtube teaches alot than most schools**
+- ⚡ Fun fact :**youtube teaches alot than most schools do**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
