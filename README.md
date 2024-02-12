@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelndegwakiarie&label=Profile%20views&color=0e75b6&style=flat" alt="samuelndegwakiarie" /> </p>
 
-- 🔭 I’m currently working on **DATA-FORM**
+- 🔭 I’m currently working on **calcul**
 
 - 🌱 I’m currently learning **springboot,**
 
