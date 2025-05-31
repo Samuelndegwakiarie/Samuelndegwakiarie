@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelndegwakiarie&label=Profile%20views&color=0e75b6&style=flat" alt="samuelndegwakiarie" /> </p>
 
-- 🔭 I’m currently working on **park system**
+- 🔭 I’m currently working on **sales ai agent**
 
-- 🌱 I’m currently learning **springboot,**
+- 🌱 I’m currently learning **next.js**
 
 - 🤝 I’m looking for help with **kotlin**
 
