@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelndegwakiarie&label=Profile%20views&color=0e75b6&style=flat" alt="samuelndegwakiarie" /> </p>
 
-- 🔭 I’m currently working on **SmartBriefs**
+- 🔭 I’m currently working on **inkwell blog**
 
 - 🌱 I’m currently learning **next.js**
 
-- 🤝 I’m looking for help with **react**
+- 🤝 I’m looking for help with **Talking to Humans **
 
 - 💬 Ask me about **PHP, java**
 
@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuel-kiarie-952355271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-kiarie-952355271" height="30" width="40" /></a>
+  <a href="https://kiaries-portfolio.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website-alt.svg" alt="samuel-kiarie" height="30" width="40" /></a>
 <a href="https://fb.com/sammie kiarie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sammie kiarie" height="30" width="40" /></a>
 </p>
 
