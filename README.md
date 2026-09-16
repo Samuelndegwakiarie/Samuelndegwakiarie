@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **inkwell blog**
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **Vue**
 
 - 👯 I’m looking to collaborate on **chana pro**
 
